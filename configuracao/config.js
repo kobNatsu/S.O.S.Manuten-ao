@@ -1,1 +1,0 @@
-const configuracaoLoja={nome:"S.O.S Manutenção",whatsapp:"5500000000000",endereco:"Digite seu endereço",horario:"Segunda a Sábado - 08:00 às 18:00"};
