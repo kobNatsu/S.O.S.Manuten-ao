@@ -1,0 +1,12 @@
+MANUAL - S.O.S MANUTENÇÃO
+
+1. Extraia o ZIP.
+2. Abra site_cliente/index.html para o site.
+3. Abra painel_admin/login.html para o painel.
+4. Login inicial:
+   Usuário: admin
+   Senha: admin123
+
+O painel salva produtos, clientes e OS no navegador usando localStorage.
+
+Para publicar na internet e compartilhar os dados entre vários aparelhos, será necessário conectar o sistema a um serviço de hospedagem e banco de dados.

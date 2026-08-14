@@ -1,0 +1,10 @@
+VERSÃO PROFISSIONAL - S.O.S MANUTENÇÃO
+
+Abra site_cliente/index.html.
+
+ANTES DE PUBLICAR:
+Edite site_cliente/js/script.js e troque:
+const whatsappNumber = "5500000000000";
+pelo número real da loja, com código do país.
+
+Esta é a versão visual profissional do site. O painel administrativo permanece no pacote anterior.
